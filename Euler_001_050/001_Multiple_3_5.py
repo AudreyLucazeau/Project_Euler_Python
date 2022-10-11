@@ -27,3 +27,4 @@ def using_range():
 
 print(brut_force())
 print(using_range())
+
